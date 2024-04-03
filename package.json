@@ -2,7 +2,7 @@
   "name": "teatime",
   "version": "1.0.0",
   "author": "newsrw <s.phusomboon@gmail.com>",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",

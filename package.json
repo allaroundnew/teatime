@@ -1,7 +1,6 @@
 {
   "name": "teatime-erx",
-  "version": "1.0.2",
-  "author": "newsrw <s.phusomboon@gmail.com>",
+  "version": "1.0.3",
   "private": false,
   "scripts": {
     "dev": "next dev",
